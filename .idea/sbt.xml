@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="$USER_HOME$/.jdks/corretto-11.0.12" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Advanced/Parallel   Async/Image Filtrering" />
+            <option value="$PROJECT_DIR$/Advanced/Parallel   Async/Image Filtrering/project" />
+            <option value="$PROJECT_DIR$/Advanced/Parallel   Async/Wiki Integration" />
+            <option value="$PROJECT_DIR$/Advanced/Parallel   Async/Wiki Integration/project" />
+            <option value="$PROJECT_DIR$/Basics/Functional Basics/Check Prime Number" />
+            <option value="$PROJECT_DIR$/Basics/Functional Basics/Check Prime Number/project" />
+            <option value="$PROJECT_DIR$/Basics/Functional Basics/Factorial Recursion" />
+            <option value="$PROJECT_DIR$/Basics/Functional Basics/Factorial Recursion/project" />
+            <option value="$PROJECT_DIR$/Basics/Functional Basics/Fibonacci Recursion" />
+            <option value="$PROJECT_DIR$/Basics/Functional Basics/Fibonacci Recursion/project" />
+            <option value="$PROJECT_DIR$/Basics/Functional Basics/Fibonacci Tail Recursion" />
+            <option value="$PROJECT_DIR$/Basics/Functional Basics/Fibonacci Tail Recursion/project" />
+            <option value="$PROJECT_DIR$/Basics/Functional Basics/Purity Check" />
+            <option value="$PROJECT_DIR$/Basics/Functional Basics/Purity Check/project" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/Fibonacci Memoization" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/Fibonacci Memoization/project" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/FizzBuzz" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/FizzBuzz/project" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/Flatting Strings" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/Flatting Strings/project" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/Group Words" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/Group Words/project" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/Map Sequence" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/Map Sequence/project" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/Take Words" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/Take Words/project" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/Zip A Word" />
+            <option value="$PROJECT_DIR$/Basics/Monads   Collections/Zip A Word/project" />
+            <option value="$PROJECT_DIR$/Basics/Typing   Generics/Bi Y-Combinator" />
+            <option value="$PROJECT_DIR$/Basics/Typing   Generics/Bi Y-Combinator/project" />
+            <option value="$PROJECT_DIR$/Basics/Typing   Generics/Vector Math" />
+            <option value="$PROJECT_DIR$/Basics/Typing   Generics/Vector Math/project" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.5.5" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
