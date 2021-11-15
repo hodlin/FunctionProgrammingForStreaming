@@ -44,3 +44,14 @@
 /Basics/Typing   Generics/Vector Math/target/
 /project/target/
 /target/
+
+.idea
+.bsp
+null
+project
+target
+test
+build.sbt
+task.html
+task-info.yaml
+task-remote-info.yaml
